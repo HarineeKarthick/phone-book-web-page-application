@@ -7,3 +7,5 @@ The user of this application can perform the following things:
 (b) view contact info
 (c) delete contact info
 (d) edit contact info
+I have used XAMPP server and editor tools to create this application.
+Reference : w3schools, geeksforgeeks
